@@ -16,7 +16,7 @@
 ***
 ## **모터와 모터드라이버 배선도**
 #### 1. 100D_배선도
-<img scr="https://user-images.githubusercontent.com/85467544/155084736-b8d0f172-a15e-4104-bf24-bd55e7e87d66.png" width="200" height="400"/>
+![100D_회로](https://user-images.githubusercontent.com/85467544/155084736-b8d0f172-a15e-4104-bf24-bd55e7e87d66.png)
 
 #### 2. 50D_배선도
 ![50D_회로](https://user-images.githubusercontent.com/85467544/155084730-378111ea-2681-4fc5-9665-cb57aaf575a6.png)
